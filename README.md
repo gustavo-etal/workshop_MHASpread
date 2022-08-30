@@ -21,11 +21,11 @@ For the second half of the workshop, you will learn how similar models are used 
 
 | **Topic**                          | **Activity and assignment**                                                                                                       | **Date** |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------|
-| R & RStudio                        | Video call to set Rstudio in your computer _Zoom room:_                                                                                         | 09/12/22 |
-| Introduction to disease spread     | [A Practical Introduction to Mechanistic Modeling of Disease Transmission in Veterinary Science](https://doi.org/10.3389/fvets.2020.546651)                                    | 09/12/22 |
-| Why use models                     | [Three questions to ask before using model outputs for decision support](https://doi.org/10.1038/s41467-020-17785-2)               | 09/26/22 |
-| Use of data to prepare against FMD | [Challenges and opportunities for using national animal datasets to support foot-and-mouth disease control]( https://doi.org/10.1111/tbed.13858)                         | 10/01/22 |
-| Main transmission routes           | [Understanding the transmission of foot-and-mouth disease virus at different scales](https://doi.org/10.1016/j.coviro.2017.11.013) | 10/10/22 |
+| R & RStudio                        | Video call to set Rstudio in your computer _Zoom room:_                                                                                         | Sep/12/22 |
+| Introduction to disease spread     | [A Practical Introduction to Mechanistic Modeling of Disease Transmission in Veterinary Science](https://doi.org/10.3389/fvets.2020.546651)                                    | Sep/12/22 |
+| Why use models                     | [Three questions to ask before using model outputs for decision support](https://doi.org/10.1038/s41467-020-17785-2)               | Sep/26/22 |
+| Use of data to prepare against FMD | [Challenges and opportunities for using national animal datasets to support foot-and-mouth disease control]( https://doi.org/10.1111/tbed.13858)                         | Oct/01/22 |
+| Main transmission routes           | [Understanding the transmission of foot-and-mouth disease virus at different scales](https://doi.org/10.1016/j.coviro.2017.11.013) | Oct/10/22 |
 
 
 ## :calendar: Calendar 
