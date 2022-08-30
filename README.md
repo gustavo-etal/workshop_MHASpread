@@ -62,6 +62,6 @@ Gustavo Machado [![ORCIDiD](https://info.orcid.org/wp-content/uploads/2019/11/or
 <a href="url"><img src="https://github.com/ncespedesc/logos_nc_state/blob/main/ncstate-type-4x1-red-min.png?raw=true" align="left" width="200" ></a>
 
 
-<a href="url"><img src="https://github.com/ncespedesc/logos_nc_state/blob/main/seapilogo.png?raw=true" align="left" width="200" ></a>
+<a href="url"><img src="https://github.com/ncespedesc/logos_nc_state/blob/main/seapilogo.png?raw=true" align="left" width="300" ></a>
 
 
