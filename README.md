@@ -43,6 +43,11 @@ For the second half of the workshop, you will learn how similar models are used 
 | Demonstration of other transmission models The Rio Grande do Sul, ASF transmission model PigSpread ASF model U.S. PigSpread PRRS model U.S. | We will demonstrate each model with some opportunity for hands-on interaction with these models.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Question round other applications   & Morning                                                                                                        | Questions and future remarks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
+
+### Usefull links
+- [] [How to install R adn Rstudio] (https://github.com/machado-lab/workshop_MHASpread/blob/main/install_RStudio_and_packages/README.md) 
+- [] [Necessary package to run the model] (https://github.com/machado-lab/workshop_MHASpread/blob/main/install_RStudio_and_packages/README.md) 
+
 ## Authors
 Nicolas Cespedes Cardenas [![ORCIDiD](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-7884-2353)
 
