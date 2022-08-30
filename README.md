@@ -23,9 +23,9 @@ For the second half of the workshop, you will learn how similar models are used 
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------|
 | R & RStudio                        | Video call to set Rstudio in your computer _Zoom room:_                                                                                         | 09/12/22 |
 | Introduction to disease spread     | [A Practical Introduction to Mechanistic Modeling of Disease Transmission in Veterinary Science](https://doi.org/10.3389/fvets.2020.546651)                                    | 09/12/22 |
-| Why use models                     | Three questions to ask before using model outputs for decision support (https://doi.org/10.1038/s41467-020-17785-2)               | 09/26/22 |
-| Use of data to prepare against FMD | Challenges and opportunities for using national animal datasets to support foot-and-mouth disease control ( https://doi.org/10.1111/tbed.13858)                         | 10/01/22 |
-| Main transmission routes           | Understanding the transmission of foot-and-mouth disease virus at different scales (https://doi.org/10.1016/j.coviro.2017.11.013) | 10/10/22 |
+| Why use models                     | [Three questions to ask before using model outputs for decision support](https://doi.org/10.1038/s41467-020-17785-2)               | 09/26/22 |
+| Use of data to prepare against FMD | [Challenges and opportunities for using national animal datasets to support foot-and-mouth disease control]( https://doi.org/10.1111/tbed.13858)                         | 10/01/22 |
+| Main transmission routes           | [Understanding the transmission of foot-and-mouth disease virus at different scales](https://doi.org/10.1016/j.coviro.2017.11.013) | 10/10/22 |
 
 
 ## :calendar: Calendar 
@@ -42,3 +42,12 @@ For the second half of the workshop, you will learn how similar models are used 
 | Dia-4 (October 20) Afternoon                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Demonstration of other transmission models The Rio Grande do Sul, ASF transmission model PigSpread ASF model U.S. PigSpread PRRS model U.S. | We will demonstrate each model with some opportunity for hands-on interaction with these models.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Question round other applications   &                                                                                                       | Questions and future remarks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+## Authors
+Nicolas Cespedes Cardenas [![ORCIDiD](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-7884-2353)
+Gustavo Machado [![ORCIDiD](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-7552-6144)
+
+## :computer: Sponsored and manteined by 
+[Website](https://machado-lab.github.io/) 
+
+
