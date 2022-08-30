@@ -51,9 +51,9 @@ Gustavo Machado [![ORCIDiD](https://info.orcid.org/wp-content/uploads/2019/11/or
 [MachadoLAb](https://machado-lab.github.io/) 
 
 ## :muscle: Sponsored
+<a href="url"><img src="https://github.com/ncespedesc/logos_nc_state/blob/main/fundesalogo.jpg?raw=true" align="left" width="150" ></a>
 
 <a href="url"><img src="https://github.com/ncespedesc/logos_nc_state/blob/main/ncstate-type-4x1-red-min.png?raw=true" align="left" width="150" ></a>
 
-<a href="url"><img src="https://github.com/ncespedesc/logos_nc_state/blob/main/fundesalogo.jpg?raw=true" align="left" width="150" ></a>
 
 
