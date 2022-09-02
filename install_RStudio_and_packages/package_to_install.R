@@ -8,6 +8,7 @@ if (!require(shinymanager)){install.packages("shinymanager") };library(shinymana
 if (!require(dashboardthemes)){install.packages("dashboardthemes") };library(dashboardthemes)
 if (!require(shiny)){install.packages("shiny") };library(shiny)
 if (!require(shinythemes)){install.packages("shinythemes") };library(shinythemes)
+if (!require(shinycssloaders)){install.packages("shinycssloaders") };library(shinycssloaders)
 if (!require(doParallel)){install.packages("doParallel") };library(doParallel)
 if (!require(magrittr)){install.packages("magrittr") };library(magrittr)
 if (!require(methods)){install.packages("methods") };library(methods)
