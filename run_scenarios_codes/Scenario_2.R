@@ -24,7 +24,7 @@ events <- MHASpread::events                                                     
 model_2     <- SEIR_model(population = population,                                                 #  Population database
                           events = events,                                                         #  Events database
                           simulation_name = "scenario_2",                                          #  Simulation tag name
-                          days_of_simulation = 10,                                                 #  Population database
+                          days_of_simulation = 20,                                                 #  Population database
                           initial_day_simulation=1,                                                #  Initial day of simulation
                           max_distance_in_km= 40,                                                  #  Max distance kernel by local disease spread
                           num_threads=1,                                                           #  Number of CPU to parallel tasks; set 1 to not overload your computer
@@ -53,7 +53,7 @@ model_2     <- SEIR_model(population = population,                              
 # here use the previous model output to set the initial condition for the control actions
 population <- update_population_in_model(original_population = MHASpread::population,
                                          model_2$populationdb )                                        # Complete  and update the  population database
-initial_day_control <- 11                                                                              # Seed the initial day of infection in the day 21
+initial_day_control <- 21                                                                              # Seed the initial day of infection in the day 21
 days_of_control_action <- 60                                                                           # Select 30 days working on control actions
 banco_summary <- c()                                                                                   # Create an empty object to save the model output
 days_to_test <- seq(initial_day_control, (initial_day_control+days_of_control_action), by= 7)          # Create the daya that will be used to test and update the buffer control areas
@@ -222,3 +222,4 @@ myplots[1]
 myplots[2]
 # 3) both vaccinated and depopulated animals
 myplots[3]
+
