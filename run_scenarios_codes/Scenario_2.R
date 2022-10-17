@@ -24,7 +24,7 @@ events <- MHASpread::events                                                     
 model_2     <- SEIR_model(population = population,                                                 #  Population database
                           events = events,                                                         #  Events database
                           simulation_name = "scenario_2",                                          #  Simulation tag name
-                          days_of_simulation = 20,                                                 #  Population database
+                          days_of_simulation = 10,                                                 #  Population database
                           initial_day_simulation=1,                                                #  Initial day of simulation
                           max_distance_in_km= 40,                                                  #  Max distance kernel by local disease spread
                           num_threads=1,                                                           #  Number of CPU to parallel tasks; set 1 to not overload your computer
